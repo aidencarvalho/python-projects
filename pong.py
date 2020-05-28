@@ -37,6 +37,7 @@ ball.speed(0)
 ball.shape("square")
 ball.color("white")
 ball.penup()
+ball.dx = 4
 ball.dy = 4
 
 # Pen
